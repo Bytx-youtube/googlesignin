@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880173113557",
+    "project_id": "bytx-sign",
+    "storage_bucket": "bytx-sign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880173113557:android:fc8393bf6fb219a1cf025c",
+        "android_client_info": {
+          "package_name": "com.bytx.googlesignin.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880173113557-n9eop108daacaqalpf176hs5eu186100.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoKdZDok_3HBLRthe9wL3E7Ee3DuX4avE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880173113557-n9eop108daacaqalpf176hs5eu186100.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
